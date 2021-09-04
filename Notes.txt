@@ -1,0 +1,4 @@
+1- Spacefiy the name of the guard.
+2- Add the guard to auth.php inside config file.
+3- Edit the redirect cases in both Authhenticate.php and redirect authenticated.php inside App\Http\Middlewares.
+4- You are now done, you just have to implement the model of the guard as User Model.
